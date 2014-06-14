@@ -1,0 +1,19 @@
+{
+	"targetName" : "spritelib",
+	"version" : "~master",
+	"description" : "D language 2D game engine framework",
+	"authors" : [
+		"Chris Batis"
+	],
+	"importPaths" : [
+		"source/"
+	],
+	"license" : "MIT",
+	"homepage" : "https://github.com/thebatii/spritelib",
+	"targetType" : "staticLibrary",
+	"sourcePaths" : [
+		"source/"
+	],
+	"name" : "spritelib",
+	"copyright" : "Copyright (c) 2014 Chris Batis"
+}
